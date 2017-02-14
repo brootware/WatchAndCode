@@ -23,6 +23,8 @@ function deleteTodos(del){
     displayTodo();
 }
 
+//don't copy below
+
 addTodos("");
 
 changeTodos(0, "");
